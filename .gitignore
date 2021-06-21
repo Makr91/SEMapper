@@ -1,0 +1,19 @@
+#Installation Folders
+bin/
+env
+etc
+include
+lib
+map
+share
+
+## Other Files to ignore
+lib64
+pyvenv.cfg
+
+
+# Private Files
+id_rsa
+id_rsa.pub
+conf.yaml
+
