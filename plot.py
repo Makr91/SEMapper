@@ -45,8 +45,6 @@ def spheres(size, clr, X, Y , Z):
     trace.update(showscale=False)
     return trace
 
-
-
 def clusters(data): 
     X = []
     Y = []
