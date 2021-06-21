@@ -86,7 +86,6 @@ def nebulae(size, clr, X, Y , Z):
     )
     return trace
 
-
 def generate_Map():
 ## Read GPS Coordinate Map File
         mapCoordinatefileData = []
