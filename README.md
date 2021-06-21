@@ -45,5 +45,13 @@ To build the tool you will need to be running Python 3.8.
 
 Once it is up and running you can then paste any set of stock GPS coordinates from Space engineers and it will map it. 
 
+Any string starting with GPS: will be evaluated to be a proper GPS string. Faction, Nation, and Sector Tags can be appened. This will be documented later.
 
-I have also begun to add support for factions, nations, sectors and other features.
+GPS:Stormcatz #1:2388385.42:-1102126.01:-3710825.53:#75C9F1::::
+
+![image](https://user-images.githubusercontent.com/11012628/122722314-29211400-d237-11eb-8841-0dcf5edc1c69.png)
+
+
+To Generate a Map with the currently collected list of cooridnates run:
+
+GG:
