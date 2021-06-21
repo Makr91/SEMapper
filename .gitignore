@@ -11,9 +11,7 @@ share
 lib64
 pyvenv.cfg
 
-
 # Private Files
 id_rsa
 id_rsa.pub
 conf.yaml
-
