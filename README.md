@@ -55,3 +55,6 @@ GPS:Stormcatz #1:2388385.42:-1102126.01:-3710825.53:#75C9F1::::
 To Generate a Map with the currently collected list of cooridnates run:
 
 GG:
+
+![image](https://user-images.githubusercontent.com/11012628/122722741-b49aa500-d237-11eb-9202-1866fde22c30.png)
+
